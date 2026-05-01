@@ -56,6 +56,10 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 ## Featured public projects
 
+**[ai-agent-workflows](https://github.com/vvazquezcolina/ai-agent-workflows)** — My production setup for running AI agents as the primary code-execution layer. Skills, multi-agent workflows, standards (code quality, testing, observability, release safety) and case studies from a 40+ repo single-engineer portfolio. The methodology behind the throughput multiple.
+
+**[pricepoint-pricing-sandbox](https://github.com/vvazquezcolina/pricepoint-pricing-sandbox)** — AI-driven hotel-pricing demo. Next.js 14 + Prisma + Claude API + Vitest + GitHub Actions CI. Built end-to-end as a worked example of the methodology above. Tests pass, build passes, deployable on Vercel with one click.
+
 **[vcc-march-06](https://github.com/vvazquezcolina/vcc-march-06)** — Interactive festival builder: design a lineup, sculpt a 3D mainstage with React Three Fiber, pick a venue on Google Maps, export a poster. → [Live demo](https://vcc-march-06.vercel.app)
 
 **[coffee-rush](https://github.com/vvazquezcolina/coffee-rush)** — Zero-dependency retro 2D arcade built on the Canvas API. → [Live demo](https://coffee-rush.vercel.app)
