@@ -1,10 +1,12 @@
 # Victor Vazquez
 
-**Ecommerce & Web Manager** · **Tech Innovation & Project Management** · **Workflow Optimization** · **Vibe Coding Enthusiast**
+**Senior AI Engineer** · **AI-Agent-Driven Production SaaS** · **TypeScript / Next.js / PostgreSQL** · **Building with Claude Code**
 
 Cancún, México · remote-first · digital nomad
 
-> Specialist in tech innovation and e-commerce platform management. I connect business goals with scalable technical solutions — optimizing day-to-day operations and building efficient digital ecosystems.
+> AI-first software engineer with **7+ years** building, shipping and operating production web platforms. Sole engineering owner of Mandala Group's full digital stack — eight brand sites, AI WhatsApp agent + CRM, sales pipeline, CMS monorepo across **40+ repositories**. **+92 % annual online-sales lift**. I run AI agents (Claude Code, Cursor, Copilot, custom multi-agent workflows) as my primary code-execution layer for production work.
+
+**Stack at a glance:** TypeScript · Next.js · React · PostgreSQL · Node.js · NestJS · Vercel · Hetzner · Docker · GitHub Actions · Claude API + MCP · Baileys (WhatsApp) · Go bridges · comfortable navigating C# / .NET with AI assistance
 
 ---
 
@@ -45,8 +47,8 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 | Where | Role | Result |
 |---|---|---|
-| **Mandala Group** · Cancún | Tech Innovation & Project Manager *(Dec 2025 — present)* | Migration to GitHub Projects across 40+ repos · delivery-cadence lift |
-| **Mandala Group** · Cancún | Ecommerce & Web Manager *(Feb 2019 — present)* | **+92 %** annual online sales after full site + campaign relaunch |
+| **Mandala Group** · Cancún | Tech Innovation & Lead Engineer *(Dec 2025 — present)* | AI-agent-driven dev workflows · architecture &amp; CI/CD across 40+ repos · 3–5× output vs prior baseline |
+| **Mandala Group** · Cancún | Lead Engineer — Ecommerce & Web Platform *(Feb 2019 — present)* | **+92 %** annual online sales after full platform rebuild + campaign overhaul |
 | **Meshico Group** · Dubai | Social Media & E-commerce Manager *(Nov 2021 — Feb 2022)* | **+15 %** reservations via CRM automation + SevenRooms data; secured Expo 2020 Dubai media deals |
 | **Amstar DMC** · Cancún | E-Commerce Data Analyst *(Sep 2018 — Feb 2019)* | **+35 %** monthly organic visibility via SEO relaunch |
 
